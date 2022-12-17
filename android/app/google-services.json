@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393620121871",
+    "project_id": "basicapp-a11bc",
+    "storage_bucket": "basicapp-a11bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393620121871:android:e4668dd9c01a4df4ed367a",
+        "android_client_info": {
+          "package_name": "com.example.baiscapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393620121871-skk2p152d4gkeucpk0g47gmvhs4pni9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsvlWujjGiDO5SMxWijyQBnmqpgfxUEHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393620121871-skk2p152d4gkeucpk0g47gmvhs4pni9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
